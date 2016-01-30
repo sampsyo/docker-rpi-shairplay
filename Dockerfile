@@ -32,4 +32,4 @@ EXPOSE 3689/tcp
 EXPOSE 5000-5005/tcp
 EXPOSE 6000-6005/udp
 
-CMD ["shairplay", "--ao_devicename=default", "--apname=Raspberry Pi"]
+CMD ["shairplay", "--ao_deviceid=1", "--apname=Raspberry Pi"]

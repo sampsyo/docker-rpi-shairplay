@@ -5,7 +5,7 @@ This is a Docker container for running [Shairplay][] on a [Raspberry Pi][]. It c
 
 Build:
 
-    docker build -t rpi-shairport .
+    docker build -t rpi-shairplay .
 
 Run:
 
